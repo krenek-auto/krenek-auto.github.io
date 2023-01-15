@@ -1,0 +1,93 @@
+ul li{
+    display: inline;
+    list-style: none;
+    }
+    
+    a{
+        text-decoration: none;
+    }
+    header{
+        background-color: #00010D;
+        font-family: Noto Sans;
+    }
+    
+    nav{
+        position: fixed;
+        top: 0;
+        padding: 35px 35px 30px 35px;
+        font-size: 1.9em;
+        width: 100%;
+        background-color: #00010D;
+    }
+    
+    .menu{
+        color: #F2EDE4;
+        padding: 35px 15px 30px 15px;
+    }
+    
+    #login{
+        position: fixed;
+        top: 0;
+        right: 0;
+        font-size: 1em;
+        padding: 35px 35px 30px 35px;
+    }
+
+    .logofirmy{
+        margin-right: 40px;
+        text-decoration: underline;
+        text-decoration-thickness: 5px;
+        font-weight: bold;
+        color: 
+        #84B9BF;
+        font-family: Open Sans;
+    }
+    
+    header a{
+        color: #F2EDE4;
+    }
+    
+    .menu:hover{
+        background-color: #F2EDE4;
+        color: #00010D;
+    }
+    
+    footer{
+        font-family: Roboto;
+        background-color: #00010D;
+        font-size: 1.4em;
+        padding: 35px 20px 30px 20px;
+        display: grid;
+        grid-template-columns: 350px 1fr;
+       
+    }
+    
+    #footerdiv{
+        display:grid;
+        grid-template-rows: 17% 83%;
+    }
+    
+    footer a{
+        color: #F2EDE4;
+    }
+    
+    footer ul li{
+        display: list-item;
+        margin: 0px 0px 10px 30px;
+    }
+    
+    footer p{
+        color: #F2EDE4;
+    }
+    
+    #footerdiv2{
+        display: grid;
+        grid-template-columns: 60px 60px 60px 1fr;
+    }
+
+    #spodek{
+        background-color: #00010D;
+        padding-bottom: 100%;
+    }
+    
+    
